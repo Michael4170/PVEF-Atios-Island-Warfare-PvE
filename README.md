@@ -9,3 +9,5 @@ Atios is an island warfare PvE scenario for Arma Reforger, built on the PVEF fra
 You fight one front at a time. Only a few objectives are open at once, garrisons only exist at open objectives, and the rest of the island stays dark and costs the server nothing.
 
 Take a base and the enemy comes back for it. Counter-attacks arrive in waves, spawn and hold where the map was built to send them, and can retake what you captured, with a task marker telling you to take it back. Mortar teams join in once a base's counter-attacks are spent.
+
+Suggestions and bug reports welcome via https://discord.gg/SsM7r8b7ae or through the Github page 
