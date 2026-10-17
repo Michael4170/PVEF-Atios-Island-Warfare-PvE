@@ -10,4 +10,6 @@ You fight one front at a time. Only a few objectives are open at once, garrisons
 
 Take a base and the enemy comes back for it. Counter-attacks arrive in waves, spawn and hold where the map was built to send them, and can retake what you captured, with a task marker telling you to take it back. Mortar teams join in once a base's counter-attacks are spent.
 
-Suggestions and bug reports welcome via https://discord.gg/SsM7r8b7ae or through the Github page 
+Thanks to Rapillex for making the Atios map - https://reforger.armaplatform.com/workshop/66BF6166B92E3D96-Atios-Islandswarfare
+
+Suggestions and bug reports welcome via https://discord.gg/SsM7r8b7ae or through the Github page https://github.com/Michael4170/PVEF-Atios-Island-Warfare-PvE
